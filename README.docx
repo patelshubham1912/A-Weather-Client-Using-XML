@@ -1,0 +1,12 @@
+# A-Weather-Client-Using-XML
+
+System Requirements:
+•	Languages used : JAVA, XML, jsp, Servlets, HTML
+•	IDE used : Eclipse
+•	Operating system : Windows
+
+Key Features Implemented :
+•	Client uses SOAP and/or XML to retrieve the weather parameters.
+•	Client displays correct weather information (4 variables).
+•	Session disconnects after fetching data (Until the refresh button is clicked).
+•	Client reconnects on command for a refresh.
